@@ -47,4 +47,4 @@ for (let i = 0; i < expenses.length; i++) {
   }
 }
 
-console.log(`Part 2 solution: ${c * d * e}`)
+console.log(`Part 2 solution: ${c * d * e}`);
